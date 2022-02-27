@@ -1,0 +1,22 @@
+//colors
+
+// background colors
+$page-bg-color: #2C4D6C;
+$card-bg-color: white;
+$element-bg-color: #D8E4F0;
+$button-bg-color: #658EB5;
+$button-bg-color-transparent: white;
+
+// text colors
+$primary-text-color: #1C5C99;
+$secondary-text-color: #4A4A4A;
+$button-text-color: white;
+
+// mixins
+
+@mixin set-font {
+    font-family: 'Bitter', serif;
+    font-size: x-large;
+    font-weight: 400;
+}
+  
